@@ -23,6 +23,8 @@ print('nb')
 
 print('???')
 
+print('?')
+
 print('hallo')
 
 print('??')
