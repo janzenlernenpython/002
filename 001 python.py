@@ -1,4 +1,4 @@
-print('hello world')
+
 
 a = 1
 
@@ -13,4 +13,8 @@ c = 100
 print(b+c)
 
 print(b*c)
+
+
+
+print(b-c)
 
